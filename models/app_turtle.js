@@ -1,4 +1,4 @@
-export default turtle;
+export default Turtle;
 
 class Turtle {
   constructor(name,color,sex,weight,length,eye,legs,swims,toeNailCount,shellColor,teeth,loves,dad)

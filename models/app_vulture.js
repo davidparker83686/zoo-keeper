@@ -18,3 +18,4 @@ class Vulture {
       this.bestfriend=bestfriend
   }
 }
+

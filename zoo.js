@@ -74,7 +74,7 @@ zoo.push(kyle)
 let larry = new Lobster('Larry','blue','male','1lb','2','6','lifting weights',true,'2','12 inches')
 zoo.push(larry)
 
-let mike = new Mouse
+let mike = new Mouse('Mike', 'brown','male','4inches','brown',4,'6inches',12,'cheese','BBY Mikey')
 zoo.push(mike)
 
 let nelly = new Newt('Nelly','black','male','16oz','10inches','bright blue',4,true,20,'5inches','making potions','bright green','Penny')
@@ -89,7 +89,7 @@ zoo.push(penny)
 let quinn = new Quial('Quinn','brown','female','12oz','5inches','hazel',2,2,true,6,'small','being cute','black','Freddy')
 zoo.push(quinn)
 
-let rob = new Rabbit 
+let rob = new Rabbit('Rob','brown and white','male','1lbs','blue',2,'5inches',10,'to steal carrots','5inches','Wally')
 zoo.push(rob)
 
 let shelby = new Snake('Shelby','bright red','female','blue',0,true,2320,'2inches',60,'gossiping about roommate','Jim') 
@@ -101,10 +101,10 @@ zoo.push(tina)
 let ulysses = new Unicorn('Ulysses','white','male','500lbs','6ft','blue',4,'pink','1ft',true,24,'2ft','to salsa dance','Harry Potter')
 zoo.push(ulysses)
 
-let victor = new Vulture 
+let victor = new Vulture('Victor','Black','male','26lbs','2ft','red',2,2,true,6,'long','white','Rob')
 zoo.push(victor)
 
-let wally = new Walrus
+let wally = new Walrus('Wally','light grey','male','3015lbs','black',0,true,'2ft','swimming','2ft','Rob')
 zoo.push(wally)
 
 let xavier = new Xsquirrel('Xavier','tan','male','.5lb','1ft','black',2,'dark brown',true,20,'6ft','nuts','Olly')
@@ -116,29 +116,3 @@ zoo.push(yael)
 let zachary = new Zebra('Zachary','Black and White','male','600lbs','5ft',4,30,'wearing sunglasses','short')
 zoo.push(zachary)
 
-
-// class Animal{
-//   constructor(name, ){
-//     this.name=name,
-//     this.color=color,
-//     this.gender=gender,
-//     this.weight=weight,
-//     this.length=length,
-//     this.legs=legs,
-//     this.tail=false,
-//     this.wings=false,
-//     this.beak=false
-//     this.teeth=teeth,
-//     this.mammal=false,
-//     this.reptile=false,
-//     this.bird=false,
-//     this.crustacean=false,
-//     this.cephalopod=false,
-//     this.fish=false,
-//     this.amphibian=false,
-//     this.eats=eats
-//     this.fur=false,
-//     this.feathers=false,
-//     this.scales=false,
-//   }
-// }
