@@ -1,4 +1,4 @@
-import Alligator from "./models/app_alligator.js"
+import Alligator from "../models/app_alligator.js"
 import Bear from "./models/app_bear.js"
 import Crab from "./models/app_crab.js"
 import Deer from "./models/app_deer.js"
